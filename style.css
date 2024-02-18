@@ -1,0 +1,101 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background: #490404;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    gap: 40px;
+    display: flex;
+}
+
+.header-ota{
+    display: flex;
+
+}
+.rasm{
+    display: flex;
+}
+
+.container2{
+    background: black;
+}
+.chap2{
+color:#FFFFFF ;
+}
+
+.h1-code{
+
+     font-size: 50px;
+     width: 576px;
+
+}
+
+.p-code{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.button-code{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+
+.ota-section{
+    display: flex;
+}
+
+.ota-section2{
+background: black;
+}
+.box{
+    text-align: center;
+    gap: 50px;
+}
+.orta{
+    font-family: Roboto;
+font-size: 38px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.section-ota3{
+    background:  black;
+}
+.sssa{
+    text-align: center;
+}
+
+.section-ota4{
+    background: #000;
+}
+
+.ot{
+    text-align: center;
+}
+ footer{
+text-align: center;
+ }
+
+
